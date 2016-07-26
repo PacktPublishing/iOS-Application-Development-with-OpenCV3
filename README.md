@@ -9,6 +9,6 @@ This book is great for developers who are new to iOS, computer vision, or both.
 Previous experience with Objective-C or C++ is recommended.
 
 For more information refer to the following books:
-*[Instant OpenCV for iOS](https://www.packtpub.com/application-development/instant-opencv-ios?utm_source=GitHub&utm_medium=repo&utm_campaign=9781782163848)
-*[Integrating Facebook iOS SDK with Your Application](https://www.packtpub.com/web-development/integrating-facebook-ios-sdk-your-application?utm_source=GitHub&utm_medium=repo&utm_campaign=9781782168430)
-*[Application Development with Parse using iOS SDK](https://www.packtpub.com/application-development/application-development-parse-using-ios-sdk?utm_source=GitHub&utm_medium=repo&utm_campaign=9781783550333)
+* [Instant OpenCV for iOS](https://www.packtpub.com/application-development/instant-opencv-ios?utm_source=GitHub&utm_medium=repo&utm_campaign=9781782163848)
+* [Integrating Facebook iOS SDK with Your Application](https://www.packtpub.com/web-development/integrating-facebook-ios-sdk-your-application?utm_source=GitHub&utm_medium=repo&utm_campaign=9781782168430)
+* [Application Development with Parse using iOS SDK](https://www.packtpub.com/application-development/application-development-parse-using-ios-sdk?utm_source=GitHub&utm_medium=repo&utm_campaign=9781783550333)
