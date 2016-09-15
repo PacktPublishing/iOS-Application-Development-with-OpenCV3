@@ -1,5 +1,5 @@
 # iOS-Application-Development-with-OpenCV3
-[iOS Application Development with OpenCV3](https://www.packtpub.com/application-development/ios-application-development-opencv?utm_source=GitHub&utm_medium=repo&utm_campaign=9781785289491) by [Packt Publishing](https://www.packtpub.com/)
+[iOS Application Development with OpenCV3](https://www.packtpub.com/application-development/ios-application-development-opencv?utm_source=GitHub&utm_medium=repository&utm_campaign=9781785289491) by [Packt Publishing](https://www.packtpub.com/)
 
 You need a computer running Mac OS 10.10 (or a later version) as well as an iPhone, iPad, or iPod Touch running iOS 9 (or a later version).
 
