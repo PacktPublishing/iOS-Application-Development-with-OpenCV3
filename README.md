@@ -10,6 +10,7 @@ Previous experience with Objective-C or C++ is recommended.
 
 Detailed installation steps (software-wise)
 The steps should be listed in a way that it prepares the system environment to be able to test the codes of the book.
+
 Mac Setup:
 * Download and install from Mac App Store the latest Xcode version (Currently 7.2). Or from the link, https://developer.apple.com/xcode/download/.
 * Download and install the Xamarin tools for Mac, https://xamarin.com/download.
