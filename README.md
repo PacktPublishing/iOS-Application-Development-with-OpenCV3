@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/ios-application-development-with-opencv-3/9781785289491)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1785289497).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # iOS-Application-Development-with-OpenCV3
 [iOS Application Development with OpenCV3](https://www.packtpub.com/application-development/ios-application-development-opencv?utm_source=GitHub&utm_medium=repository&utm_campaign=9781785289491) by [Packt Publishing](https://www.packtpub.com/)
 
